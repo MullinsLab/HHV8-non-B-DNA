@@ -2,6 +2,7 @@
 R scripts used in publication: Genomic changes in Kaposi Sarcoma-associated Herpesvirus and their clinical correlates
 
 To replicate, one needs SIST (Stress-Induced Structural Transitions) (Zhabinskaya, et al, 2015) for calculation of cruciform, denaturation and Z-DNA formation probabilities, which is run in Bash. R packages triplex (Hon, et al, 2013) and pqsfinder (Hon, et al, 2017) is used for calculating triplex and G-quadruplex scores, respectively. Refer to their respective manuals.
+
 SIST - https://bitbucket.org/benhamlab/sist_codes/src/master/
 pqsfinder - https://bioconductor.org/packages/release/bioc/html/pqsfinder.html
 triplex - https://bioconductor.org/packages/release/bioc/html/triplex.html
